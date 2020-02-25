@@ -1,2 +1,2 @@
 # lineconnector
-_default
+_pointconnectivity
